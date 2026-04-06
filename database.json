@@ -1,0 +1,29 @@
+{
+   "products": [
+      {
+         "name": "Apple",
+         "price": 120,
+         "count": 59
+      },
+      {
+         "name": "Bread",
+         "price": 50,
+         "count": 120
+      },
+      {
+         "name": "Water",
+         "price": 30,
+         "count": 90
+      },
+      {
+         "name": "Melon",
+         "price": 80,
+         "count": 20
+      },
+      {
+         "name": "бананы",
+         "price": 37,
+         "count": 400
+      }
+   ]
+}
